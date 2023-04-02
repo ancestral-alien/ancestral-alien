@@ -8,7 +8,7 @@
 ## About me 👽
 <!-- COMMENT -->
 
-i, I'm Alien. You might recognize me as Alienigena.eth.
+Hi, I'm Alien. You might recognize me as Alienigena.eth.
 
 <details open>
 <summary>My top Languages</summary>
