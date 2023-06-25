@@ -24,7 +24,7 @@ Hi, I'm Alien. You might recognize me as Alienigena.eth.
 </details>
 
 ---
-> LADRAN SANCHO
+
 
 
 <!--
