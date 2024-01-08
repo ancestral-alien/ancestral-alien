@@ -11,14 +11,6 @@
 Hi, I'm Alien. You might recognize me as Alienigena.eth.
 
 <details open>
-<summary>My top Languages</summary>
-
-
-| Rank | Languages |
-|-----:|-----------|
-|     1| Solidity  |
-|     2| JavaScript|
-|     3| Cobol     |
 
 
 </details>
